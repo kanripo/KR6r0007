@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 異部宗輪論
+#+DATE: 2015-08-30 21:55:04.807822
+#+PROPERTY: JUAN 0
