@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:04.580769
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:06
 #+TITLE: 異部宗輪論
 #+PROPERTY: CBETA_ID T49n2031
 #+PROPERTY: ID KR6r0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2031
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0007_T_001-0015a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2031[cf.Nos.2032,2033]¶
-
- 異部宗輪論一卷¶
+No. 2031 [cf. Nos. 2032, 2033]¶
+異部宗輪論一卷¶
 ¶
 世友菩薩造¶
 三藏法師玄奘譯¶
@@ -37,9 +36,9 @@ No.2031[cf.Nos.2032,2033]¶
 　應審觀佛教
 　聖諦說為依¶
 　如採沙中金
-　擇取其真實
+　擇取其真實」
 #+END_VERSE
-」¶
+¶
 
 如是傳聞。佛薄伽梵般涅槃後。百有餘年去¶
 聖時淹。如日久沒。摩竭陀國俱蘇摩城王號¶
@@ -53,9 +52,9 @@ No.2031[cf.Nos.2032,2033]¶
 「　餘所誘無知
 　猶豫他令入¶
 　道因聲故起
-　是名真佛教
+　是名真佛教」
 #+END_VERSE
-」¶
+¶
 
 後即於此第二百年。大眾部中流出三部。一¶
 一說部。二說出世部。三雞胤部。次後於此第¶
@@ -237,9 +236,9 @@ No.2031[cf.Nos.2032,2033]¶
 「　五法定能縛
 　諸苦從之生¶
 　謂無明貪愛
-　五見及諸業
+　五見及諸業」
 #+END_VERSE
-」¶
+¶
 
 其法藏部本宗同義。謂佛雖在僧中所攝。然¶
 別施佛果大非僧。於窣堵波興供養業獲廣¶
@@ -261,7 +260,7 @@ No.2031[cf.Nos.2032,2033]¶
 「　備詳眾梵本
 　再譯宗輪論¶
 　文愜義無謬
-　智者應勤學
+　智者應勤學」
 #+END_VERSE
-」¶
+¶
 異部宗輪論一卷
